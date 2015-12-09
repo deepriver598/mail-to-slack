@@ -1,0 +1,14 @@
+{
+  "zabbix": {
+    "hookUrl": "<your slack's incoming-webhook url>", #=> https://******
+    "channel": "<your slack's channel>", #=> #channel
+    "username": "<your slack's user>", #=> user
+    "address": "<alert e-mail address>" #=> aaa@bbb.co.jp
+  },
+  "cloudwatch": {
+    "hookUrl": "<your slack's incoming-webhook url>", #=> https://******
+    "channel": "<your slack's channel>", #=> #channel
+    "username": "<your slack's user>", #=> user
+    "address": "<alert e-mail address>" #=> aaa@bbb.co.jp
+  }
+}
